@@ -1,4 +1,4 @@
-### Hello my name Matheus Rodrigues,
+### Hello my name is Matheus Rodrigues,
 
 - 🔭 I'm currently looking for an opportunity to add and develop myself
 - 🌱 I am currently studying higher education in the Information Systems area at the Federal Institution of Alagoas and I am studying the Javascript/Typescript language both on the front-end and back-end sides
