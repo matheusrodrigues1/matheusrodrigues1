@@ -21,6 +21,8 @@
 <div>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=3178C6&color=007ACC" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=61DAFB&color=282c34" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&color=000000" alt="Next.js" />
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&color=38B2AC" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C" alt="Bootstrap" />
