@@ -32,3 +32,5 @@
   <img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white&color=000000" alt="Linux" />
 </div>
+
+<h5>🚀 lets rock the future</h5>
