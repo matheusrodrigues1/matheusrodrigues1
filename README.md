@@ -21,5 +21,3 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white&color=005C8B" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white&color=000000" alt="Linux" />
 </div>
-
-<h5>🚀 lets rock the future</h5>
